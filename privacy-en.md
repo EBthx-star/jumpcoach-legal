@@ -1,7 +1,7 @@
 # Privacy Policy — JumpCoach
 
-**Last updated:** November 8, 2026
-**Publisher:** Ixsence — Emmanuel Barthoux
+**Last updated:** November 8, 2026<br>
+**Publisher:** Ixsence — Emmanuel Barthoux<br>
 **Contact:** emmanuel.barthoux@ixsence.com
 
 ---

@@ -1,7 +1,7 @@
 # Politique de confidentialité — JumpCoach
 
-**Dernière mise à jour :** 8 novembre 2026
-**Éditeur :** Ixsence — Emmanuel Barthoux
+**Dernière mise à jour :** 8 novembre 2026<br>
+**Éditeur :** Ixsence — Emmanuel Barthoux<br>
 **Contact :** emmanuel.barthoux@ixsence.com
 
 ---
